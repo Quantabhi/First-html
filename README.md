@@ -5,7 +5,7 @@ This site showcases my skills, projects, <br> and background — built using onl
 </p>
 
 <h2> 🔥 Live Demo </h2>
-<a href="https://www.google.com">Click here 🖱️ to view the website </a>
+<a href="https://quantabhi.github.io/First-html/">Click here 🖱️ to view the website </a>
 
 <h2> 🛠️ Tech Stack </h2>
 <ul>
